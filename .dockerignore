@@ -1,0 +1,15 @@
+.git
+.github
+.local
+.cache
+.config
+.upm
+node_modules
+**/node_modules
+dist
+**/dist
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
